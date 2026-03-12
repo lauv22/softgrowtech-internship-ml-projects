@@ -1,9 +1,8 @@
 # SoftGrowTech Internship - Machine Learning Task 1
 
 **Name:** Roshan Khadka  
-**Domain:** Machine Learning  
-**Batch:** [Your batch in DD/MM format, e.g. 01/03 – check your offer letter or ask company]  
-**Student ID:** [SGT-***-***** – exactly as in your offer letter]  
+**Domain:** Machine Learning    
+**Student ID:** [SGT-26C-R937  exactly as in your offer letter]  
 **GitHub:** @lauv22
 
 Completed 2 projects as required for Task 1 submission.
